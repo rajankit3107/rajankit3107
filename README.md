@@ -1,22 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A passionate developer from India</h3>
+<!-- Profile README for Ankit Raj -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajankit3107&label=Profile%20views&color=0e75b6&style=flat" alt="rajankit3107" /> </p>
+<h1 align="center">Hi there, I'm <span style="color:#1976D2;">Ankit Raj</span>! 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajankit3107" alt="rajankit3107" /></a> </p>
-
-- 🌱 I’m currently learning **web3**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anxit_0731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anxit_0731" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-raj-0ab8ab252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-raj-0ab8ab252/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="hello">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <b>Computer Science Engineering Student | AI & Web Developer | Problem Solver</b>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajankit3107&show_icons=true&locale=en&layout=compact" alt="rajankit3107" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajankit3107&show_icons=true&locale=en" alt="rajankit3107" /></p>
+## 💼 About Me
 
+- 🎓 **B.Tech in Computer Science Engineering** @ Bennett University (CGPA: 8.86/10)
+- 👨‍💻 **Software Engineer Intern** @ sway.club (June 2024 – Aug 2024)
+- 🌱 Always exploring new tech and building impactful projects
+- 💡 Driven by curiosity and a passion for real-world problem-solving
+
+---
+
+## 🚀 Skills & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
+
+- **Programming:** C++, Python, JavaScript, SQL
+- **Web:** React, Next.js, Node.js, REST APIs, TailwindCSS, SSR
+- **Databases:** PostgreSQL, Firebase, MongoDB, NeonTech Database
+- **AI/CV:** PyTorch, TensorFlow, YOLO, Deep Learning, LLMs (Familiarity)
+- **Tools:** Git, GitHub, VS Code, Postman, Appwrite, Docker
+- **Other:** Data Structures, Algorithms, OOP, OS, Problem Solving
+
+---
+
+## 🌟 Featured Projects
+
+### 🚨 [Suraksha-AI](https://github.com/rajankit3107/spot-ai) — <i>AI Security System</i>
+<ul>
+  <li>Cutting-edge security system using Computer Vision and Deep Learning for intelligent monitoring and threat detection.</li>
+  <li>Full-stack architecture: <b>React</b>, <b>Next.js</b>, <b>Firebase</b>, <b>PostgreSQL</b>.</li>
+  <li>Deployed YOLO, PyTorch, and explored LLMs &amp; OpenAI APIs for advanced features.</li>
+</ul>
+
+### 🏥 [Sehatsarv](https://github.com/rajankit3107/sehatsarv) — <i>Healthcare Management Platform</i>
+<ul>
+  <li>Streamlines hospital resources and patient interactions with a modern web interface.</li>
+  <li>Features hospital resource management, booking system, and robust backend.</li>
+  <li>Built using <b>ReactJS</b>, <b>Next.js</b>, and <b>PostgreSQL</b>.</li>
+</ul>
+
+---
+
+## 🎯 Interests
+
+- 🤖 Computer Vision & Artificial Intelligence
+- 🌐 Web Development & Open Source
+- 💻 Competitive Programming
+- 🚀 Building solutions that make an impact
+
+---
+
+## 📫 Let’s Connect!
+
+<p>
+  <a href="mailto:ankitraj46767@gmail.com"><img src="https://img.shields.io/badge/Email-ankitraj46767@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/anxxit0731"><img src="https://img.shields.io/badge/LinkedIn-anxxit0731-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/rajankit3107"><img src="https://img.shields.io/badge/GitHub-rajankit3107-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-yourwebsite.com-24292F?style=flat&logo=firefox-browser&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center"><i>“Striving to build the future, one project at a time.”</i></p>
