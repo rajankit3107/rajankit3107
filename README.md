@@ -1,89 +1,97 @@
-<!-- Profile README for Ankit Raj -->
+<div align="center">
+  <img src="https://64.media.tumblr.com/f02888981f332c96c4a6311059f13110/tumblr_myk99n25mD1s1v8bto1_500.gif" alt="Coding GIF" width="40%"/>
+</div>
 
-<h1 align="center">Hi there, I'm <span style="color:#1976D2;">Ankit Raj</span>! 👋</h1>
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ankit-raj-b461b2234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <!-- Add other social links if you have them, e.g., Twitter, a personal blog, or dev.to -->
+  <!-- <a href="YOUR_TWITTER_URL" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> -->
+  <!-- <a href="YOUR_BLOG_URL" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"></a> -->
+</div>
+
+<h1 align="center">👋 Hey there! I'm Ankit Raj.</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="hello">
+  A passionate and driven software developer constantly exploring new technologies and building robust solutions. I'm currently focused on **AI-powered applications** and **full-stack web development**, blending my strong foundation in Java and Spring Boot with modern JavaScript frameworks. I believe in continuous learning and enjoy tackling complex problems with clean, efficient code.
 </p>
 
-<p align="center">
-  <b>Computer Science Engineering Student | AI & Web Developer | Problem Solver</b>
-</p>
+<br/>
 
 ---
 
-## 💼 About Me
+### 🚀 What I'm Learning & Building
 
-- 🎓 **B.Tech in Computer Science Engineering** @ Bennett University (CGPA: 8.86/10)
-- 👨‍💻 **Software Engineer Intern** @ sway.club (June 2024 – Aug 2024)
-- 🌱 Always exploring new tech and building impactful projects
-- 💡 Driven by curiosity and a passion for real-world problem-solving
-
----
-
-## 🚀 Skills & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-</p>
-
-- **Programming:** C++, Python, JavaScript, SQL
-- **Web:** React, Next.js, Node.js, REST APIs, TailwindCSS, SSR
-- **Databases:** PostgreSQL, Firebase, MongoDB, NeonTech Database
-- **AI/CV:** PyTorch, TensorFlow, YOLO, Deep Learning, LLMs (Familiarity)
-- **Tools:** Git, GitHub, VS Code, Postman, Appwrite, Docker
-- **Other:** Data Structures, Algorithms, OOP, OS, Problem Solving
+-   **AI-Powered Solutions:** Integrating Machine Learning models and natural language processing into web applications.
+-   **Modern Web Development:** Deep-diving into Next.js, React, and building dynamic, user-friendly web interfaces.
+-   **Backend & APIs:** Crafting powerful and scalable backend systems with Spring Boot and Node.js.
+-   **Data Structures & Algorithms:** Sharpening problem-solving skills and understanding core computer science concepts.
+-   **Database Design:** Exploring relational databases (MySQL, PostgreSQL) and optimizing data access.
 
 ---
 
-## 🌟 Featured Projects
+### 💻 Technologies & Tools
 
-### 🚨 [Suraksha-AI](https://github.com/rajankit3107/spot-ai) — <i>AI Security System</i>
-<ul>
-  <li>Cutting-edge security system using Computer Vision and Deep Learning for intelligent monitoring and threat detection.</li>
-  <li>Full-stack architecture: <b>React</b>, <b>Next.js</b>, <b>Firebase</b>, <b>PostgreSQL</b>.</li>
-  <li>Deployed YOLO, PyTorch, and explored LLMs &amp; OpenAI APIs for advanced features.</li>
-</ul>
+Here's a glimpse into my toolbox:
 
-### 🏥 [Sehatsarv](https://github.com/rajankit3107/sehatsarv) — <i>Healthcare Management Platform</i>
-<ul>
-  <li>Streamlines hospital resources and patient interactions with a modern web interface.</li>
-  <li>Features hospital resource management, booking system, and robust backend.</li>
-  <li>Built using <b>ReactJS</b>, <b>Next.js</b>, and <b>PostgreSQL</b>.</li>
-</ul>
+| Category      | Technologies                                             |
+| :------------ | :------------------------------------------------------- |
+| **Languages** | Java, JavaScript, TypeScript, C++ (for DSA)              |
+| **Frontend**  | React.js, Next.js, HTML, CSS, Tailwind CSS               |
+| **Backend**   | Spring Boot, Node.js                                     |
+| **Databases** | MySQL, PostgreSQL                                        |
+| **AI/ML**     | Python (basic/learning for ML), ML Integration concepts  |
+| **Tools**     | Git, GitHub, VS Code, Postman, Maven, npm, yarn          |
 
----
-
-## 🎯 Interests
-
-- 🤖 Computer Vision & Artificial Intelligence
-- 🌐 Web Development & Open Source
-- 💻 Competitive Programming
-- 🚀 Building solutions that make an impact
+<br/>
 
 ---
 
-## 📫 Let’s Connect!
+### 💡 Featured Projects
 
-<p>
-  <a href="mailto:ankitraj46767@gmail.com"><img src="https://img.shields.io/badge/Email-ankitraj46767@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/anxxit0731"><img src="https://img.shields.io/badge/LinkedIn-anxxit0731-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/rajankit3107"><img src="https://img.shields.io/badge/GitHub-rajankit3107-181717?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-yourwebsite.com-24292F?style=flat&logo=firefox-browser&logoColor=white"></a>
-</p>
+Here are some projects that highlight my skills and learning journey:
+
+-   **[Spot AI](https://github.com/rajankit3107/Spot-AI):**
+    (Provide a brief, compelling description of Spot AI here. E.g., "An innovative AI-powered platform for X, leveraging Y technology to achieve Z.")
+    -   `[Last Updated: (e.g., 5 days ago)]` `[Tech Stack: (e.g., Next.js, Python, FastAPI, ML models)]`
+-   **[Medium Clone](https://github.com/rajankit3107/medium-clone):**
+    A full-stack clone of the popular blogging platform Medium, demonstrating user authentication, content creation, and a robust API.
+    -   `[Last Updated: (e.g., 2 weeks ago)]` `[Tech Stack: (e.g., Next.js/React, Node.js/Spring Boot, Database)]`
+-   **[SehatSarv - Healthcare Platform](https://github.com/rajankit3107/SehatSarv):**
+    (Provide a brief, compelling description of SehatSarv here. E.g., "A healthcare management platform designed to streamline X for Y users, focusing on Z features.")
+    -   `[Last Updated: (e.g., 1 month ago)]` `[Tech Stack: (e.g., Java, Spring Boot, React, MySQL)]`
+-   **[spring-boot-react-fullstack](https://github.com/rajankit3107/spring-boot-react-fullstack):**
+    A foundational full-stack application demonstrating seamless integration between a Spring Boot backend and a React frontend.
+    -   `[Last Updated: (e.g., 2 months ago)]` `[Tech Stack: Spring Boot, React, Java, JavaScript, MySQL (likely)]`
+-   **[dsa](https://github.com/rajankit3107/dsa):**
+    A comprehensive collection of Data Structures and Algorithm implementations and practice problems, primarily in C++.
+    -   `[Last Updated: (e.g., recently)]` `[Tech Stack: C++]`
 
 ---
 
-<p align="center"><i>“Striving to build the future, one project at a time.”</i></p>
+### 📈 My GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajankit3107&show_icons=true&theme=dark&rank_icon=github" alt="Ankit Raj's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankit3107&layout=compact&theme=dark" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajankit3107&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
+
+---
+
+### 💬 Let's Connect!
+
+I'm always eager to learn, collaborate, and discuss new ideas. Feel free to reach out on LinkedIn or open an issue/discussion on one of my repositories!
+
+<div align="center">
+  <p>Thanks for visiting my profile! Let's build something awesome together. ✨</p>
+</div>
+
+<br/>
