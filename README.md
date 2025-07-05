@@ -10,8 +10,8 @@
 
 **Results-driven Computer Science Engineering student** passionate about building innovative solutions that make a difference. I specialize in full-stack web development and AI-powered applications, with a strong foundation in computer vision and deep learning.
 
-- 🎓 **B.Tech CSE** at Bennett University | **CGPA: 8.86/10.0** | **Dean's List Recipient**
-- 💼 **Software Engineer Intern** @ Sway.Club
+- 🎓 **B.Tech CSE** at Bennett University | **CGPA: 8.86/10.0** 
+- 💼 ** Former Software Engineer Intern** @ Sway.Club
 - 🌟 **AI & Computer Vision Enthusiast** building intelligent systems
 - 🔍 **Always exploring** cutting-edge technologies and contributing to open source
 
@@ -75,7 +75,6 @@
 
 ## 🏆 Achievements & Experience
 
-- **🎖️ Dean's List** - Academic Excellence Recognition
 - **💼 Software Engineer Intern** - Enhanced user engagement through responsive React interfaces
 - **🚀 Performance Optimization** - Improved SEO and application performance with Next.js SSR
 - **🤝 Cross-functional Collaboration** - Translated UI/UX mockups into production-ready components
@@ -84,7 +83,6 @@
 
 ## 💡 Current Focus
 
-- 🔬 **Deep Learning & Computer Vision** - Building intelligent systems with PyTorch and YOLO
 - 🌐 **Full-Stack Development** - Creating scalable web applications with modern tech stack
 - 🤖 **AI Integration** - Exploring LLMs and OpenAI API for next-generation applications
 - 🏗️ **System Design** - Architecting robust and maintainable solutions
@@ -108,5 +106,5 @@
 </div>
 
 <div align="center">
-  <i>✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨</i>
+  <i>✨ "Code is like humor. When you have to explain it, it's bad." ✨</i>
 </div>
