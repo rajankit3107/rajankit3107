@@ -1,97 +1,21 @@
-<div align="center">
-  <img src="https://64.media.tumblr.com/f02888981f332c96c4a6311059f13110/tumblr_myk99n25mD1s1v8bto1_500.gif" alt="Coding GIF" width="40%"/>
-</div>
+<h1 align="center">Hi 👋, I'm Ankit</h1>
+<h3 align="center">Results-driven Computer Science Engineering student excelling in full-stack web application development with Javascript, React, Next.js, and TypeScript. Possessing a robust academic record and foundational knowledge in AI/Computer Vision, I am adept at transforming complex requirements into functional, user-centric solutions. Eager to contribute innovative technical expertise to high-impact software projects.</h3>
 
-<br/>
+- 📫 How to reach me **ankitraj46767@gmail.com**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ankit-raj-b461b2234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!-- Add other social links if you have them, e.g., Twitter, a personal blog, or dev.to -->
-  <!-- <a href="YOUR_TWITTER_URL" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> -->
-  <!-- <a href="YOUR_BLOG_URL" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"></a> -->
-</div>
-
-<h1 align="center">👋 Hey there! I'm Ankit Raj.</h1>
-
-<p align="center">
-  A passionate and driven software developer constantly exploring new technologies and building robust solutions. I'm currently focused on **AI-powered applications** and **full-stack web development**, blending my strong foundation in Java and Spring Boot with modern JavaScript frameworks. I believe in continuous learning and enjoy tackling complex problems with clean, efficient code.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@anxit_0731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anxit_0731" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anxit0731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anxit0731" height="30" width="40" /></a>
+<a href="https://instagram.com/@anxit_0731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@anxit_0731" height="30" width="40" /></a>
 </p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajankit3107&show_icons=true&locale=en&layout=compact" alt="rajankit3107" /></p>
 
-### 🚀 What I'm Learning & Building
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajankit3107&show_icons=true&locale=en" alt="rajankit3107" /></p>
 
--   **AI-Powered Solutions:** Integrating Machine Learning models and natural language processing into web applications.
--   **Modern Web Development:** Deep-diving into Next.js, React, and building dynamic, user-friendly web interfaces.
--   **Backend & APIs:** Crafting powerful and scalable backend systems with Spring Boot and Node.js.
--   **Data Structures & Algorithms:** Sharpening problem-solving skills and understanding core computer science concepts.
--   **Database Design:** Exploring relational databases (MySQL, PostgreSQL) and optimizing data access.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajankit3107&" alt="rajankit3107" /></p>
 
----
-
-### 💻 Technologies & Tools
-
-Here's a glimpse into my toolbox:
-
-| Category      | Technologies                                             |
-| :------------ | :------------------------------------------------------- |
-| **Languages** | Java, JavaScript, TypeScript, C++ (for DSA)              |
-| **Frontend**  | React.js, Next.js, HTML, CSS, Tailwind CSS               |
-| **Backend**   | Spring Boot, Node.js                                     |
-| **Databases** | MySQL, PostgreSQL                                        |
-| **AI/ML**     | Python (basic/learning for ML), ML Integration concepts  |
-| **Tools**     | Git, GitHub, VS Code, Postman, Maven, npm, yarn          |
-
-<br/>
-
----
-
-### 💡 Featured Projects
-
-Here are some projects that highlight my skills and learning journey:
-
--   **[Spot AI](https://github.com/rajankit3107/Spot-AI):**
-    (Provide a brief, compelling description of Spot AI here. E.g., "An innovative AI-powered platform for X, leveraging Y technology to achieve Z.")
-    -   `[Last Updated: (e.g., 5 days ago)]` `[Tech Stack: (e.g., Next.js, Python, FastAPI, ML models)]`
--   **[Medium Clone](https://github.com/rajankit3107/medium-clone):**
-    A full-stack clone of the popular blogging platform Medium, demonstrating user authentication, content creation, and a robust API.
-    -   `[Last Updated: (e.g., 2 weeks ago)]` `[Tech Stack: (e.g., Next.js/React, Node.js/Spring Boot, Database)]`
--   **[SehatSarv - Healthcare Platform](https://github.com/rajankit3107/SehatSarv):**
-    (Provide a brief, compelling description of SehatSarv here. E.g., "A healthcare management platform designed to streamline X for Y users, focusing on Z features.")
-    -   `[Last Updated: (e.g., 1 month ago)]` `[Tech Stack: (e.g., Java, Spring Boot, React, MySQL)]`
--   **[spring-boot-react-fullstack](https://github.com/rajankit3107/spring-boot-react-fullstack):**
-    A foundational full-stack application demonstrating seamless integration between a Spring Boot backend and a React frontend.
-    -   `[Last Updated: (e.g., 2 months ago)]` `[Tech Stack: Spring Boot, React, Java, JavaScript, MySQL (likely)]`
--   **[dsa](https://github.com/rajankit3107/dsa):**
-    A comprehensive collection of Data Structures and Algorithm implementations and practice problems, primarily in C++.
-    -   `[Last Updated: (e.g., recently)]` `[Tech Stack: C++]`
-
----
-
-### 📈 My GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajankit3107&show_icons=true&theme=dark&rank_icon=github" alt="Ankit Raj's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankit3107&layout=compact&theme=dark" alt="Top Languages"/>
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajankit3107&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</div>
-
----
-
-### 💬 Let's Connect!
-
-I'm always eager to learn, collaborate, and discuss new ideas. Feel free to reach out on LinkedIn or open an issue/discussion on one of my repositories!
-
-<div align="center">
-  <p>Thanks for visiting my profile! Let's build something awesome together. ✨</p>
-</div>
-
-<br/>
