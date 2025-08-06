@@ -20,11 +20,11 @@
     <img src="https://img.shields.io/badge/My_Projects-Explore-blue?style=for-the-badge&logo=github" alt="Explore My Projects" />
   </a>
   <!-- IMPORTANT: Replace with your actual LinkedIn URL -->
-  <a href="https://linkedin.com/in/your_linkedin_profile_url" target="_blank">
+  <a href="https://linkedin.com/in/rajankit0731" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
   </a>
   <!-- IMPORTANT: Replace with your actual email address -->
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:ankitraj46767@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail" alt="Email Me" />
   </a>
   <!-- If you have a personal website or portfolio, add it here! -->
@@ -86,12 +86,10 @@ I enjoy working with a variety of technologies to bring ideas to life. Here are 
 
 I'm always open to collaborating on interesting projects, sharing knowledge, or just having a chat about tech. Feel free to reach out!
 
-*   **LinkedIn**: [your_linkedin_profile_url](https://linkedin.com/in/your_linkedin_profile_url) (Replace with your actual URL!)
-*   **Email**: [your_email@example.com](mailto:your_email@example.com) (Replace with your actual email!)
+*   **LinkedIn**: [your_linkedin_profile_url](https://linkedin.com/in/rajankit0731) 
+*   **Email**: [your_email@example.com](mailto:ankitraj46767@gmail.com) 
 *   **GitHub**: [rajankit3107](https://github.com/rajankit3107)
 
 ---
 
-<p align="center">
-  Made with ❤️ by Ankit Raj
-</p>
+
