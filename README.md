@@ -2,7 +2,7 @@
 
 # ✨ Ankit Raj
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Senior+Full-Stack+Engineer;TypeScript+%7C+System+Design+%7C+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full-Stack+Engineer;TypeScript+%7C+System+Design+%7C+Architecture" alt="Typing SVG" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 ```typescript
 interface DeveloperProfile {
   name: "Ankit Raj";
-  role: "Senior Full-Stack Engineer";
+  role: "Full-Stack Engineer";
   institution: "Bennett University";
   location: "Greater Noida, IN";
   
